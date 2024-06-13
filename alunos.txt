@@ -1,0 +1,19 @@
+Nome: Marlon da Silva
+Idade: 18
+Curso: Administração
+
+Nome: Anderson Rodrigues
+Idade: 25
+Curso: Ciência da computação
+
+Nome: Vinicius Alves
+Idade: 20
+Curso: Edificações
+
+Nome: Maria Clara
+Idade: 25
+Curso: Massoterapia
+
+Nome: Carlos Daniel
+Idade: 19
+Curso: Psicologia
